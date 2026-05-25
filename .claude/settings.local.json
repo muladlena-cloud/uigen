@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//private/tmp/**)",
+      "Bash(chromium-cli screenshot *)",
+      "Bash(npx playwright *)",
+      "mcp__playwright"
+    ],
+    "deny": []
+  }
+}
